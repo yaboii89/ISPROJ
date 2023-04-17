@@ -1,0 +1,117 @@
+ul{
+    font-size: 18px;
+}
+
+.resume-title{
+    text-align: center;
+}
+
+.position{
+    font-size: 23px;
+    padding: 0%;
+}
+
+.companylocation{
+    font-size: 17px;
+    padding: 0%;
+}
+
+.desc {
+    font-size: 14px;
+}
+
+.achomp{
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+.achompl{
+    font-size: 14px;
+}
+
+rtitle{
+    font-size: 33px;
+}
+
+.eduU{
+    font-size: 16px;
+}
+
+.skilz{
+    text-align: center;
+}
+
+.resumeS{
+    background-color: silver;
+    padding: 24px;
+}
+
+.flor{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkgreen;
+}
+.page {
+    background-color: ivory;
+}
+
+.listos{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.CENTERTIT{
+    text-align: center;
+}
+.common{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.Header{
+    height: 100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+}
+
+.MainBody{
+    background-color: silver;
+    text-align: center;
+    right: 5px;
+    left: 5px;
+
+
+}
+
+.Footer{
+    height: 25px;
+    background-color:darkgreen;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    padding-top: 15px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+nav{
+    background-color:darkgreen;
+    padding: 10px;
+    overflow: hidden;
+}
+nav a {
+    float: left;
+    color: black;
+    padding:10px 13px;
+    text-decoration: NONE;
+    font-size: 16px;
+    font-weight: bold;
+}
+nav a:hover {
+    background-color: rgba(67, 121, 29, 0.745);
+}
